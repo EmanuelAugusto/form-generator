@@ -1,21 +1,17 @@
-# ehGenerator (ehrgeneratorv2)
+# Gerador de formulário (form-generator)
 
-EhrGenerator
+- projeto criado para gerar formulários básicos com html e bootstrap
+
+<img src="form-generator.PNG">
 
 ## Install the dependencies
+
 ```bash
 yarn
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Start the app in development mode
+
 ```bash
 quasar dev
 ```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
