@@ -1,6 +1,6 @@
 # Gerador de formulário (form-generator)
 
-- projeto criado para gerar formulários básicos com html e bootstrap
+- projeto criado utilizando quasar framework para gerar formulários básicos com html e bootstrap
 
 <img src="form-generator.PNG">
 
